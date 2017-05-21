@@ -1,0 +1,10 @@
+                  README
+
+This program solves the sliding tile game using various methods including Random walk, BFS, DFS and A* 		  
+
+
+1. Run using:  java Engine
+
+2. Use program interface ( R for Randon walk,B for BFS and D for DFS else E to exit)
+
+3. When prompted which file to load type the number in name and hit enter ex.(1 corresponds to SBP-level1.txt)
